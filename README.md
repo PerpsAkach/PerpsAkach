@@ -11,8 +11,8 @@ I build across machine learning, generative AI, data engineering, automation, ba
 
 - **AI & Machine Learning:** TensorFlow, Keras, CNNs, transformers, Hugging Face, NLP, Sentence-BERT, HDBSCAN
 - **Data Engineering & Analytics:** Python, Pandas, ETL, semi-structured data processing, feature engineering, statistics, anomaly detection
-- **Backend & Databases:** Flask, REST APIs, SQL, SQLite, SQLAlchemy, relational modeling, transactions, validation, testing
-- **Application Engineering:** TypeScript, browser/client runtime boundaries, PDF processing, financial analytics, adaptive recommendation systems
+- **Backend & Databases:** Flask, REST APIs, SQL, SQLite, MySQL, SQLAlchemy, relational modeling, transactions, validation, testing
+- **Application Engineering:** TypeScript, Docker Compose, service integration, browser/client runtime boundaries, PDF processing, financial analytics, adaptive recommendation systems
 
 ## Featured Projects
 
@@ -59,9 +59,9 @@ Flask REST API with normalized relational modeling, CRUD operations, transaction
 ---
 
 ### [Tax Payment Tracking System](https://github.com/PerpsAkach/tax-payment-tracker)
-Flask/SQLite application for quarterly tax-payment tracking, multiple partial payments, cent-accurate monetary handling, status calculation, annual reporting, and CSV export.
+Verified **CSIT 555 Database Systems team project** from Spring 2024. The original six-person project used Flask, MySQL, Docker Compose, CRUD workflows, reporting, and service integration. The portfolio repository preserves that verified history while providing a clearly labeled modern reconstruction with safer money handling and stronger domain modeling.
 
-**Tech:** Flask · SQLite · HTML/CSS · CRUD · Reporting
+**Tech:** Flask · MySQL · Docker Compose · SQL · CRUD · Reporting · Service Integration
 
 ## Engineering Approach
 
