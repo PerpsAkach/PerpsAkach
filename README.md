@@ -52,9 +52,9 @@ TensorFlow/Keras computer-vision project using a 20,000-image dataset with augme
 ---
 
 ### [Course Registration REST API](https://github.com/PerpsAkach/course-registration-api)
-Flask REST API with normalized relational modeling, CRUD operations, transactions, SQL constraints, duplicate-registration prevention, capacity validation, search, pagination, and tests.
+Compact Flask/SQLAlchemy API with relational student-course-enrollment modeling, uniqueness constraints, duplicate-registration prevention, course-capacity checks, and basic endpoint tests.
 
-**Tech:** Flask · SQL · SQLAlchemy · REST APIs · Testing
+**Tech:** Flask · SQLAlchemy · REST APIs · Relational Modeling · Testing
 
 ---
 
