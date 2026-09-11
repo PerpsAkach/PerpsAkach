@@ -9,12 +9,19 @@ I build across machine learning, generative AI, data engineering, automation, ba
 
 ## Technical Focus
 
-- **AI & Machine Learning:** TensorFlow, Keras, CNNs, transformers, Hugging Face, NLP, Sentence-BERT, HDBSCAN
-- **Data Engineering & Analytics:** Python, Pandas, ETL, semi-structured data processing, feature engineering, statistics, anomaly detection
+- **AI & Machine Learning:** TensorFlow, Keras, CNNs, transformers, Hugging Face, NLP, Sentence-BERT, HDBSCAN, interpretable ML, calibration, subgroup validation
+- **Data Engineering & Analytics:** Python, Pandas, ETL, semi-structured data processing, feature engineering, statistics, anomaly detection, public-health analytics
 - **Backend & Databases:** Flask, REST APIs, SQL, SQLite, MySQL, SQLAlchemy, relational modeling, transactions, validation, testing
 - **Application Engineering:** TypeScript, Docker Compose, service integration, browser/client runtime boundaries, PDF processing, financial analytics, adaptive recommendation systems
 
 ## Featured Projects
+
+### [NHANES Multi-Source Health Analytics](https://github.com/PerpsAkach/nhanes-health-analytics)
+Modern reconstruction of a recovered CSIT-558 Data Mining project using CDC/NHANES public-use data. Builds a reproducible adult blood-pressure analytics pipeline, an interpretable logistic-regression benchmark, calibration and subgroup validation, and governed random-forest/gradient-boosting challengers.
+
+**Tech:** Python · Pandas · scikit-learn · Logistic Regression · Model Validation · Calibration · Model Governance
+
+---
 
 ### [Wealth Compass](https://github.com/PerpsAkach/wealth-compass)
 Personal-finance analytics application with CSV/PDF ingestion, transaction normalization, historical spending baselines, deviation detection, goal modeling, and adaptive recommendation feedback.
