@@ -6,6 +6,7 @@ I build across machine learning, generative AI, data engineering, automation, ba
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-perpsakach.github.io-d7ff5f?style=for-the-badge&labelColor=11151a)](https://perpsakach.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-PerpsAkach-181717?style=for-the-badge&logo=github)](https://github.com/PerpsAkach)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Paul%20Akach%20Ndiege-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paul-akach-ndiege-3611a4148/)
 
 ## Technical Focus
 
@@ -24,9 +25,9 @@ Modern reconstruction of a recovered CSIT-558 Data Mining project using CDC/NHAN
 ---
 
 ### [Wealth Compass](https://github.com/PerpsAkach/wealth-compass)
-Personal-finance analytics application with CSV/PDF ingestion, transaction normalization, historical spending baselines, deviation detection, goal modeling, and adaptive recommendation feedback.
+Personal-finance analytics application with browser-side CSV and searchable-PDF ingestion, transaction normalization, robust spending baselines and deviation screening, financial-goal/investment scenario modeling, and evidence-calibrated recommendation signals. The enhanced implementation includes deterministic dependency locking, dependency auditing, expanded tests, and Node.js 24 CI.
 
-**Tech:** TypeScript · PDF.js · Financial Analytics · Robust Statistics · Adaptive Recommendations
+**Tech:** TypeScript · Vite · PDF.js · Financial Analytics · Robust Statistics · Adaptive Recommendations · Vitest
 
 ---
 
