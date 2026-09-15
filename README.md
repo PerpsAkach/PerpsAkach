@@ -11,8 +11,8 @@ I build across machine learning, generative AI, data engineering, automation, ba
 
 - **AI & Machine Learning:** TensorFlow, Keras, CNNs, transformers, Hugging Face, NLP, Sentence-BERT, HDBSCAN, interpretable ML, calibration, subgroup validation
 - **Data Engineering & Analytics:** Python, Pandas, ETL, semi-structured data processing, feature engineering, statistics, anomaly detection, public-health analytics
-- **Backend & Databases:** Flask, REST APIs, SQL, SQLite, MySQL, SQLAlchemy, relational modeling, transactions, validation, testing
-- **Application Engineering:** TypeScript, Docker Compose, service integration, browser/client runtime boundaries, PDF processing, financial analytics, adaptive recommendation systems
+- **Backend & Databases:** Flask, REST APIs, SQL, PostgreSQL, SQLite, MySQL, SQLAlchemy, Alembic, relational modeling, transactions, RBAC, concurrency controls, testing
+- **Application Engineering:** TypeScript, Docker, Docker Compose, service integration, browser/client runtime boundaries, PDF processing, financial analytics, adaptive recommendation systems
 
 ## Featured Projects
 
@@ -59,9 +59,9 @@ TensorFlow/Keras computer-vision project using a 20,000-image dataset with augme
 ---
 
 ### [Course Registration REST API](https://github.com/PerpsAkach/course-registration-api)
-Compact Flask/SQLAlchemy API with relational student-course-enrollment modeling, uniqueness constraints, duplicate-registration prevention, course-capacity checks, and basic endpoint tests.
+Reconstructed and substantially enhanced Flask/SQLAlchemy registration backend with terms, sections, prerequisites, schedule validation, FIFO waitlists, RBAC, Alembic migrations, PostgreSQL final-seat row locking, real concurrency integration testing, audit logging, rate limiting, Prometheus metrics, OpenAPI/Swagger documentation, and Docker/Gunicorn deployment support.
 
-**Tech:** Flask · SQLAlchemy · REST APIs · Relational Modeling · Testing
+**Tech:** Flask · SQLAlchemy · PostgreSQL · Alembic · REST APIs · RBAC · Transactions · Docker · pytest
 
 ---
 
