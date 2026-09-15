@@ -67,9 +67,9 @@ Reconstructed and substantially enhanced Flask/SQLAlchemy registration backend w
 ---
 
 ### [Tax Payment Tracking System](https://github.com/PerpsAkach/tax-payment-tracker)
-Verified **CSIT 555 Database Systems team project** from Spring 2024. The original six-person project used Flask, MySQL, Docker Compose, CRUD workflows, reporting, and service integration. The portfolio repository preserves that verified history while providing a clearly labeled modern reconstruction with safer money handling and stronger domain modeling.
+Verified **CSIT 555 Database Systems team project** from Spring 2024. The original six-person project used Flask, MySQL, Docker Compose, CRUD workflows, reporting, and service integration. The current portfolio repository clearly separates that recovered history from a focused Flask/SQLite reconstruction for user-entered quarterly obligations and partial payments, with integer-cent money handling, relational constraints, derived payment status, focused tests, and CI.
 
-**Tech:** Flask · MySQL · Docker Compose · SQL · CRUD · Reporting · Service Integration
+**Tech:** Current — Flask · SQLite · Decimal/integer-cent money handling · pytest · GitHub Actions · Historical — MySQL · Docker Compose · CRUD/reporting workflows
 
 ## Engineering Approach
 
