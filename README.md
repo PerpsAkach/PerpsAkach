@@ -53,9 +53,9 @@ Reconstructed and enhanced behavioral-analytics pipeline that converts semi-stru
 ---
 
 ### [Cats vs Dogs CNN](https://github.com/PerpsAkach/cats-vs-dogs-cnn)
-TensorFlow/Keras computer-vision project using a 20,000-image dataset with augmentation, model evaluation, and explicit overfitting/generalization analysis.
+Transparent TensorFlow/Keras reconstruction of a recovered 20,000-image cat-vs-dog CNN experiment. The historical run logged 97.23% training accuracy and 82.30% validation accuracy, exposing substantial overfitting. The enhanced repository adds memory-efficient `tf.data` ingestion, image-integrity checks, precision/recall/F1/ROC-AUC diagnostics, structured run artifacts, 25 automated tests, Ruff, dependency auditing, and a TensorFlow runtime CI gate.
 
-**Tech:** TensorFlow · Keras · CNN · Computer Vision
+**Tech:** TensorFlow · Keras · CNN · Computer Vision · scikit-learn · pytest
 
 ---
 
