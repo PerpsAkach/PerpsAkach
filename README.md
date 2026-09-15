@@ -32,9 +32,9 @@ Personal-finance analytics application with browser-side CSV and searchable-PDF 
 ---
 
 ### [NJDOT Green-Time Anomaly Detection](https://github.com/PerpsAkach/njdot-green-time-anomaly-detection)
-Python-based ITS/SCATS operational validation workflow for explainable Green-Time anomaly screening, phase/signal-group diagnostics, and multi-day batch processing.
+Sanitized Python ITS/SCATS operator-support workflow for deterministic Green-Time screening against row-level baselines, configurable severity thresholds, operational input-quality metrics, daily batch reporting, and auditable Excel outputs. The public implementation preserves the conceptual separation between Green-Time screening and phase diagnostics without claiming unavailable production multi-export integrations.
 
-**Tech:** Python · ITS/SCATS · Automation · Data Validation · Operational Analytics
+**Tech:** Python · Pandas · openpyxl · ITS/SCATS · Operational Analytics · Data Quality · pytest
 
 ---
 
