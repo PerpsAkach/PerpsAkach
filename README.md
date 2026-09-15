@@ -39,9 +39,9 @@ Sanitized Python ITS/SCATS operator-support workflow for deterministic Green-Tim
 ---
 
 ### [GenAI Amazon Reviews](https://github.com/PerpsAkach/genai-amazon-reviews)
-Hugging Face NLP pipeline using FLAN-T5 and BERT for review cleaning, summarization, feature extraction, and 1–5 star sentiment analysis.
+Reconstructed and enhanced Amazon Reviews 2023 NLP pipeline using FLAN-T5 for prompt-conditioned cleaning, one-sentence summarization, and feature/issue extraction, plus a BERT-based 1–5 star sentiment model. The implementation adds token-aware truncation, structured CSV/JSON outputs, ordinal evaluation, deterministic offline tests, dependency auditing, and multi-version CI.
 
-**Tech:** Python · Hugging Face · FLAN-T5 · BERT · NLP · Prompt Engineering
+**Tech:** Python · Hugging Face · FLAN-T5 · BERT · NLP · scikit-learn · pytest
 
 ---
 
