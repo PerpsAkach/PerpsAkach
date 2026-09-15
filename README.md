@@ -46,9 +46,9 @@ Reconstructed and enhanced Amazon Reviews 2023 NLP pipeline using FLAN-T5 for pr
 ---
 
 ### [Student Routines & Mood Clustering](https://github.com/PerpsAkach/student-routines-mood-clustering)
-Behavioral analytics pipeline that transforms semi-structured activity logs into event-level data and applies TF-IDF, Sentence-BERT, HDBSCAN, t-SNE, and statistical analysis.
+Reconstructed and enhanced behavioral-analytics pipeline that converts semi-structured Excel activity diaries into auditable event-level and participant-day data, clusters behavioral routine features with HDBSCAN, and supports TF-IDF, optional Sentence-BERT weekday/weekend comparison, deterministic t-SNE visualization, data-quality diagnostics, and descriptive mood-association analysis. Mood is deliberately excluded from clustering inputs to preserve interpretability.
 
-**Tech:** Python · Pandas · SBERT · HDBSCAN · t-SNE · TF-IDF
+**Tech:** Python · Pandas · HDBSCAN · Sentence-BERT · TF-IDF · t-SNE · SciPy · pytest
 
 ---
 
